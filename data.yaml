@@ -1,0 +1,3 @@
+train: './train'
+no : 2
+classes: ['car', 'truck']
